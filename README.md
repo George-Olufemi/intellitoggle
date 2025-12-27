@@ -5,7 +5,7 @@ The goal is to match the design as closely as possible, ensure responsiveness, a
 
 ## Live Demo
 
-- URL: 
+- URL: https://intellitoggle-zeta.vercel.app/
 
 ## Tech Stack
 
