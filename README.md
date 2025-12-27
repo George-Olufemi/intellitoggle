@@ -41,37 +41,37 @@ cd your-repo
 
 3. **Install dependencies**
 
-# Using npm
+### Using npm
 
 npm install
 
-# Using pnpm
+### Using pnpm
 
 pnpm install
 
-# Using yarn
+### Using yarn
 
 yarn install
 
-# Using bun
+### Using bun
 
 bun install
 
 4. **Start the development server**
 
-# Using npm
+### Using npm
 
 npm run dev
 
-# Using pnpm
+### Using pnpm
 
 pnpm dev
 
-# Using yarn
+### Using yarn
 
 yarn dev
 
-# Using bun
+### Using bun
 
 bun run dev
 
